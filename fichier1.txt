@@ -1,1 +1,1 @@
-Ceci est le contenu de fichier1.txt
+Ceci est le contenu choisi pour mon fichier1.txt
