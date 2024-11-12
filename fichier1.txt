@@ -1,1 +1,2 @@
 Ceci est le contenu choisi pour mon fichier1.txt
+auquel j'ajoute une autre ligne
